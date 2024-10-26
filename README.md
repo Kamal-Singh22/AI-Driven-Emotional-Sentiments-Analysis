@@ -4,7 +4,8 @@ This project leverages machine learning to analyze and classify the emotional se
 
 # Emotion Detection in Text using Natural Language Processing
 
-<img src="./images/index.png"/>
+<img src=".\project\index.png"/>
+
 
 <br>
 
